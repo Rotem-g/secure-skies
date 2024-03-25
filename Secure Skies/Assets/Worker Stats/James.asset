@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d24040f3ca6a3429427fcff4957c72, type: 3}
   m_Name: James
   m_EditorClassIdentifier: 
-  OriginalStats: []
+  OriginalStats:
+  - statType: 0
+    value: 2
+  - statType: 2
+    value: 4
+  - statType: 5
+    value: 5
+  - statType: 6
+    value: 2
   statInfo: []
