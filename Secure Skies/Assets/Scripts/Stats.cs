@@ -5,9 +5,13 @@ using UnityEngine;
 [System.Serializable]
 public enum Stat
 {
-    Debugging,
-    BugTesting,
-    Communication
+    DigitalAcquisition,
+    HostAnalysis,
+    NetworkAnalysis,
+    MalawareAnalysis,
+    IOTAnalysis,
+    MobileDeviceAnalysis,
+    DatabaseAnalysis
 }
 
 [System.Serializable]
